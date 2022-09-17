@@ -52,16 +52,18 @@ input[type='submit'] {
   background-color: var(--secondary);
   color: white;
   border: none;
-  margin: 2rem 1rem;
+  margin: 2rem 0rem;
   border-radius: 7px;
-  width: 380px;
+  width: 340px;
   padding: 0.9rem 3rem;
 }
 
 form {
   margin: 0 auto;
-  width: 400px;
+  width: 22rem;
   text-align: left;
+  box-sizing: border-box;
+  padding: 0.5rem;
 }
 
 input,
